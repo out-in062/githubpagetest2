@@ -1,6 +1,6 @@
 # リンクの挿入
 
-[index.md] (https://out-in062.github.io/githubpagetest/)
+[index.md] (./index.md)
 
 # インライン表示
 
