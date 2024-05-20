@@ -1,3 +1,7 @@
+# リンクの挿入
+
+[second.md](https://out-in062.github.io/githubpagetest2/)
+
 # 改行されない場合の例
 
 こんにちは
