@@ -1,6 +1,6 @@
 # リンクの挿入
 
-[index.md] (./index.md)
+[index.md](index.md)
 
 # インライン表示
 
